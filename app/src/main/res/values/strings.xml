@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toropova</string>
+    <string name="developers_life">Developers Life</string>
+    <string name="error_msg">Произошла ошибка при загрузке данных</string>
+</resources>
